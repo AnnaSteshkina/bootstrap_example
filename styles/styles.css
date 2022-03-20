@@ -1,0 +1,15 @@
+.container{
+    padding-left: 0;
+    padding-right: 0;
+}
+.navbar{
+    padding-left: 0;
+    padding-right: 0;
+}
+.jumbotron{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-deck{
+    margin-bottom: 50px;
+}
